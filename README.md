@@ -1,5 +1,5 @@
 # IT_Hackathon
 
 Grupo
-Ramon Bento
-Juan Rebouças
+Ramon Bento;
+Juan Rebouças;
